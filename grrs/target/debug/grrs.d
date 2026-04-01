@@ -1,1 +1,1 @@
-/home/sidpad/Documents/Code/github/learning_rust/grrs/target/debug/grrs: /home/sidpad/Documents/Code/github/learning_rust/grrs/src/main.rs
+C:\Users\sidar\Documents\Code\GITHUB\learning_rust\grrs\target\debug\grrs.exe: C:\Users\sidar\Documents\Code\GITHUB\learning_rust\grrs\src\main.rs
